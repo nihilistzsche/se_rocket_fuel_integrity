@@ -1,1 +1,1 @@
-data.raw.item["rocket_fuel"].stack_size = 10
+data.raw.item["rocket-fuel"].stack_size = 10

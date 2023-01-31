@@ -3,11 +3,11 @@
   "version": "0.0.1",
   
   "title": "se_rocket_fuel_integrity",
-  "description": "Insure rocket fuel stack size stays at 10 for space exploration integrity when using BigBags.",
+  "description": "Ensure rocket fuel stack size stays at 10 for space exploration integrity when using BigBags.",
   
   "author": "nihilistzsche",
   "license": "GPL3",
   
-  "dependencies": ["base >= 1.1.6", "space-exploration", "? BigBags" ],
+  "dependencies": ["base >= 1.1.6", "space-exploration", "? BigBags", "?Krastorio2", "?CaitSith2-Krastorio-SpaceExploration-Tweaks" ],
   "factorio_version": "1.1"
 }
